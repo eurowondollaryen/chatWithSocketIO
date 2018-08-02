@@ -1,0 +1,6 @@
+
+Socket.io : WebSocket 기반 real time api
+AJAX와의 공통점 : 서버랑 tube 통신을 하지만, 서버는 수동적이다.(클라이언트가 전송하는 거에 종속적임)
+
+서버 파일 : app.js
+클라이언트 파일 : index.html
